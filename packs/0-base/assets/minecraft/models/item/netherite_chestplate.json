@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_chestplate"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/shroom_shirt"},
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_vest_netherite"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/pirate_vest_netherite2"}
+	]
+}

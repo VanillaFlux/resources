@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cookie"
+	},
+	
+	"overrides": [
+	    {"predicate": {"custom_model_data":1}, "model": "custom/cookies/macaron"},
+		{"predicate": {"custom_model_data":2}, "model": "custom/cookies/chocolate_chocolate_chip_cookie"},
+		{"predicate": {"custom_model_data":3}, "model": "custom/cookies/chocolate_kiss_cookie"},
+		{"predicate": {"custom_model_data":4}, "model": "custom/cookies/chocolate_with_sprinkles_cookie"},
+		{"predicate": {"custom_model_data":5}, "model": "custom/cookies/cinnamon_roll"},
+		{"predicate": {"custom_model_data":6}, "model": "custom/cookies/mm_cookie"},
+		{"predicate": {"custom_model_data":7}, "model": "custom/cookies/oreo"},
+		{"predicate": {"custom_model_data":50}, "model": "custom/october/witch_hat_cookie"},
+		{"predicate": {"custom_model_data":51}, "model": "custom/october/black_cat_cookie"},
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/food/chocolate_bar_1"},
+		{"predicate": {"custom_model_data":101}, "model": "custom/tef/food/chocolate_bar_2"},
+		{"predicate": {"custom_model_data":102}, "model": "custom/tef/food/candy_corn"},
+		{"predicate": {"custom_model_data":103}, "model": "custom/tef/food/lollipop"},
+		{"predicate": {"custom_model_data":104}, "model": "custom/tef/food/cupcake"}
+	]
+}

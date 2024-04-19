@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "written_book",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/custom/wolf/envelope",
+		"particle": "item/custom/wolf/envelope"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 8],
+			"to": [14, 8, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 4], "texture": "#0"},
+				"east": {"uv": [6, 1, 6.5, 5], "texture": "#0"},
+				"south": {"uv": [0, 4, 6, 8], "texture": "#0"},
+				"west": {"uv": [6, 5, 6.5, 9], "texture": "#0"},
+				"up": {"uv": [12, 0.5, 6, 0], "texture": "#0"},
+				"down": {"uv": [12, 0.5, 6, 1], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, -90],
+			"translation": [0.25, -1.25, -1.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, -90],
+			"translation": [0.25, -1.25, -1.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 120, 0],
+			"translation": [1.75, 4.5, -2.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 120, 0],
+			"translation": [1.75, 4.5, -2.75]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"translation": [0, 4, 0]
+		},
+		"head": {
+			"translation": [0, -20, -9]
+		},
+		"fixed": {
+			"translation": [0, 4.75, -1.25]
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/golden_helmet"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/armor/crown"},
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_hat_gold"}
+	]
+}
