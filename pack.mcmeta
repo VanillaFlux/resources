@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 15,
 	"name": "Resources",
-    "description": "VanillaFlux Resource Pack 2",
+    "description": "VanillaFlux Resource Pack 3",
 	"supported_formats": {
             "min_inclusive": 1,
             "max_inclusive": 99
