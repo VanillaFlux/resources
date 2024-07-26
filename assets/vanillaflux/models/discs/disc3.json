@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_music_disc",
   "textures": {
-    "layer0": "vanillaflux:item/disks/disk8"
+    "layer0": "vanillaflux:item/discs/disc3"
   }
 }
