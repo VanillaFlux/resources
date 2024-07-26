@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/spider_eye"
+	},
+	
+	"overrides": [
+
+
+        {"predicate": {"custom_model_data":500}, "model": "custom/wolf/rose_g"}
+	]
+}

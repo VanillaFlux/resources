@@ -1300,6 +1300,7 @@
     
     },
 	"overrides": [
-	    {"predicate": {"custom_model_data":300}, "model": "custom/quick/pickle"}
+	    {"predicate": {"custom_model_data":300}, "model": "custom/quick/pickle"},
+	    {"predicate": {"custom_model_data":1600}, "model": "vanillaflux:derrek/blue_golden_carrot"}
 	]
 }

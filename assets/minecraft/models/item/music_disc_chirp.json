@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_chirp"
+  },
+  "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "vanillaflux:disks/disk1"},
+		{"predicate": {"custom_model_data":2}, "model": "vanillaflux:disks/disk2"},
+		{"predicate": {"custom_model_data":3}, "model": "vanillaflux:disks/disk3"},
+		{"predicate": {"custom_model_data":4}, "model": "vanillaflux:disks/disk4"},
+		{"predicate": {"custom_model_data":5}, "model": "vanillaflux:disks/disk5"},
+		{"predicate": {"custom_model_data":6}, "model": "vanillaflux:disks/disk6"},
+		{"predicate": {"custom_model_data":7}, "model": "vanillaflux:disks/disk7"},
+		{"predicate": {"custom_model_data":8}, "model": "vanillaflux:disks/disk8"},
+		{"predicate": {"custom_model_data":9}, "model": "vanillaflux:disks/disk9"},
+		{"predicate": {"custom_model_data":10}, "model": "vanillaflux:disks/disk10"},
+		{"predicate": {"custom_model_data":11}, "model": "vanillaflux:disks/disk11"},
+		{"predicate": {"custom_model_data":12}, "model": "vanillaflux:disks/disk12"},
+		{"predicate": {"custom_model_data":13}, "model": "vanillaflux:disks/disk13"},
+		{"predicate": {"custom_model_data":14}, "model": "vanillaflux:disks/disk14"},
+		{"predicate": {"custom_model_data":15}, "model": "vanillaflux:disks/disk15"}
+	]
+}

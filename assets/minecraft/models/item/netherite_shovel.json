@@ -6,9 +6,9 @@
     },
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/tef_shovel"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/tools/netherite_shovel"},
-		{"predicate": {"custom_model_data":301}, "model": "custom/quick/tools/netherite_shovel_3d"}
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/shovel2"},
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/tools/netherite_shovel"},
+		{"predicate": {"custom_model_data":301}, "model": "vanillaflux:quick/tools/netherite_shovel_3d"}
 	],
 	
     "display": {

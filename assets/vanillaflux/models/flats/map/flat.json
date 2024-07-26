@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/generated",
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 2, 16 ],
+            "faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#north", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 2], "texture": "#east", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#south", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 2], "texture": "#west", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#up", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#down", "cullface": "down"}
+			}
+        }
+    ],
+	"textures": {
+		"layer0": "#up",
+        "particle": "#up",
+        "down": "#bottom",
+        "up": "#up",
+        "north": "#side",
+        "east": "#side",
+        "south": "#side",
+        "west": "#side"
+    },
+	"display": {
+		"fixed": {
+			"translation": [0, 0, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+  }
+}

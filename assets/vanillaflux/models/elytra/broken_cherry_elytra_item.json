@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/custom/elytra/broken_cherry_elytra_item"
+	}
+}

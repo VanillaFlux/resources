@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "gui_light": "front",
+    "display": {
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -0.5, 0, 0 ]
+        }
+    },
+  "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "custom/cakes/tef_cake"}
+	]
+}

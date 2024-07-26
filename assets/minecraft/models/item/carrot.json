@@ -5,6 +5,7 @@
   },
   
   "overrides": [
-		{"predicate": {"custom_model_data":50}, "model": "custom/october/candy_corn"}
+		{"predicate": {"custom_model_data":50}, "model": "custom/october/candy_corn"},
+		{"predicate": {"custom_model_data":1600}, "model": "vanillaflux:derrek/blue_carrot"}
 	]
 }

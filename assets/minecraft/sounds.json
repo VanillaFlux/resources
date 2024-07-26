@@ -1,0 +1,20 @@
+{
+  "player.quickscythe.noteblock": {
+    "sounds": [
+      {
+        "name": "players/quick/hotatatah",
+        "volume": 0.5
+      }
+    ],
+    "replace": true
+  },
+  "player.bree.noteblock": {
+    "sounds": [
+      {
+        "name": "players/bree/stitious",
+        "volume": 0.6
+      }
+    ],
+    "replace": true
+  }
+}

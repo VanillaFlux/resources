@@ -14,7 +14,10 @@
 		{"predicate": {"custom_model_data":400}, "model": "custom/jec/diamond_sword"},
 		{"predicate": {"custom_model_data":501}, "model": "custom/wolf/staff"},
 
-		{"predicate": {"custom_model_data":400}, "model": "custom/jec/diamond_sword"}
+		{"predicate": {"custom_model_data":400}, "model": "custom/jec/diamond_sword"},
+		
+		{"predicate": {"custom_model_data":1001}, "model": "custom/quick/secret"}
+		
 
 	],
 	

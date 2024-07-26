@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/bow",
+	"textures": {
+		"layer0": "vanillaflux:item/quick/tools/bow_pulling_0"
+	}
+}

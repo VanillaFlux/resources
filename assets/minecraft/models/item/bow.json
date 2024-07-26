@@ -81,9 +81,9 @@
 		{"predicate": {"custom_model_data":100, "pulling": 1}, "model": "custom/tef/tools/bow2"},
         {"predicate": {"custom_model_data":100, "pulling": 1, "pull": 0.65}, "model": "custom/tef/tools/bow3"},
         {"predicate": {"custom_model_data":100, "pulling": 1, "pull": 0.9}, "model": "custom/tef/tools/bow4"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/tools/bow"},
-		{"predicate": {"custom_model_data":300, "pulling": 1}, "model": "custom/quick/tools/bow_pulling_0"},
-        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.65}, "model": "custom/quick/tools/bow_pulling_1"},
-        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.9}, "model": "custom/quick/tools/bow_pulling_2"}
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/tools/bow"},
+		{"predicate": {"custom_model_data":300, "pulling": 1}, "model": "vanillaflux:quick/tools/bow_pulling_0"},
+        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.65}, "model": "vanillaflux:quick/tools/bow_pulling_1"},
+        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.9}, "model": "vanillaflux:quick/tools/bow_pulling_2"}
     ]
 }

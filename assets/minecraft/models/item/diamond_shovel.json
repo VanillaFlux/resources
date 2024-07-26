@@ -6,7 +6,7 @@
     },
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/shovel2"}
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/shovel1"}
 	],
 	
     "display": {

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cake"
+  },
+  "overrides": [
+		
+		{"predicate": {"custom_model_data":1001}, "model": "vanillaflux:cakes/tef_cake"},
+        {"predicate": {"custom_model_data":1002}, "model": "custom/cakes/bree_cake"},
+		{"predicate": {"custom_model_data":1003}, "model": "custom/cakes/rotten_cake"},
+		{"predicate": {"custom_model_data":1004}, "model": "custom/cakes/carrot_cake"},
+        {"predicate": {"custom_model_data":1005}, "model": "custom/cakes/mea_cake"}
+	]
+}

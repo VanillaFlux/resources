@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "vanillaflux:quick/armor/hats/lg-bee-t/base",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/custom/quick/armor/hats/lg-bee-t/lg-bee-t_ar"
+	}
+}

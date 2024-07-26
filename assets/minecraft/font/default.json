@@ -1,0 +1,58 @@
+{
+  "providers": [
+	{
+		"type": "bitmap",
+		"file": "minecraft:gui/sprites/hud/food_empty.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			""
+		]
+	},
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/sprites/hud/food_half.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/sprites/hud/food_full.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:misc/redstone.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:misc/calcite_small.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "minecraft:block/calcite.png",
+      "ascent": 16,
+	  "height": 32,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}
