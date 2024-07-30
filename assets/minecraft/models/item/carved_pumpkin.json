@@ -55,6 +55,7 @@
 		{"predicate": {"custom_model_data":330}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/bg"},
 		{"predicate": {"custom_model_data":500}, "model": "custom/wolf/bowtie"},
 		{"predicate": {"custom_model_data":1000}, "model": "vanillaflux:trophy/trophy_base"},
-		{"predicate": {"custom_model_data":1001}, "model": "vanillaflux:trophy/trophy_fish"}
+		{"predicate": {"custom_model_data":1001}, "model": "vanillaflux:trophy/trophy_fish"},
+		{"predicate": {"custom_model_data":1600}, "model": "custom/derrek/mushroom_hat"}
 	]
 }
