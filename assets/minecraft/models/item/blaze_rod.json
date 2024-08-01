@@ -7,6 +7,6 @@
 	"overrides": [
 
 
-        {"predicate": {"custom_model_data":500}, "model": "custom/wolf/handcuff"}
+        {"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/handcuff"}
 	]
 }

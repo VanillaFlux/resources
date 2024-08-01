@@ -5,7 +5,7 @@
   },
   "overrides": [
 		
-		{"predicate": {"custom_model_data":1}, "model": "custom/pumpkin_pie"},
-		{"predicate": {"custom_model_data":2}, "model": "custom/peacan_pie"}
+		{"predicate": {"custom_model_data":1}, "model": "vanillaflux:public/dean/pumpkin_pie"},
+		{"predicate": {"custom_model_data":2}, "model": "vanillaflux:public/dean/peacan_pie"}
 	]
 }

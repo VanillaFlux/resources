@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/tef/plushies/warrier_plush/leftleg",
-		"2": "item/custom/tef/plushies/warrier_plush/rightleg",
-		"3": "item/custom/tef/plushies/warrier_plush/torso",
-		"4": "item/custom/tef/plushies/warrier_plush/leftarm",
-		"5": "item/custom/tef/plushies/warrier_plush/rightarm",
-		"6": "item/custom/tef/plushies/warrier_plush/head",
-		"8": "item/custom/tef/plushies/warrier_plush/helmet",
-		"9": "item/custom/tef/plushies/warrier_plush/texture",
-		"10": "item/custom/tef/plushies/warrier_plush/pouldron",
-		"particle": "item/custom/tef/plushies/warrier_plush/rightleg"
+		"1": "vanillaflux:item/tef/plushies/warrier_plush/leftleg",
+		"2": "vanillaflux:item/tef/plushies/warrier_plush/rightleg",
+		"3": "vanillaflux:item/tef/plushies/warrier_plush/torso",
+		"4": "vanillaflux:item/tef/plushies/warrier_plush/leftarm",
+		"5": "vanillaflux:item/tef/plushies/warrier_plush/rightarm",
+		"6": "vanillaflux:item/tef/plushies/warrier_plush/head",
+		"8": "vanillaflux:item/tef/plushies/warrier_plush/helmet",
+		"9": "vanillaflux:item/tef/plushies/warrier_plush/texture",
+		"10": "vanillaflux:item/tef/plushies/warrier_plush/pouldron",
+		"particle": "vanillaflux:item/tef/plushies/warrier_plush/rightleg"
 	},
 	"elements": [
 		{

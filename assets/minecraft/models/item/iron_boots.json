@@ -17,6 +17,6 @@
 		{"predicate": {"trim_type": 1.0}, "model": "minecraft:item/iron_boots_amethyst_trim"},
 		
 		
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_boots_iron"}
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/armor/pirate_boots_iron"}
 	]
 }

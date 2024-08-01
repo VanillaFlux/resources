@@ -1,0 +1,6 @@
+{
+	"parent": "vanillaflux:public/flats/map/flat",
+	"textures": {
+		"up": "minecraft:block/redstone_lamp_on"
+  }
+}

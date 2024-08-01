@@ -16,6 +16,6 @@
 		{"predicate": {"trim_type": 0.9}, "model": "minecraft:item/golden_chestplate_lapis_trim"},
 		{"predicate": {"trim_type": 1.0}, "model": "minecraft:item/golden_chestplate_amethyst_trim"},
 		
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_vest_gold"}
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/armor/pirate_vest_gold"}
 	]
 }

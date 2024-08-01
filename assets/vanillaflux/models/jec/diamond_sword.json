@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/custom/jec/diamond_sword"
+		"layer0": "vanillaflux:item/jec/diamond_sword"
 	}
 }

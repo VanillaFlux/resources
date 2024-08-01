@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/bow",
 	"textures": {
-		"layer0": "item/custom/tef/tools/bow2"
+		"layer0": "vanillaflux:item/tef/tools/bow2"
 	}
 }

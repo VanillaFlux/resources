@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/tef/armor/broken_elytra"
+		"layer0": "vanillaflux:item/tef/armor/broken_elytra"
 	}
 }

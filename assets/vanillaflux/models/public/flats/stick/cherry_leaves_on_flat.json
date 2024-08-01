@@ -1,0 +1,6 @@
+{
+	"parent": "vanillaflux:public/flats/stick/flat",
+	"textures": {
+		"up": "minecraft:block/cherry_leaves"
+  }
+}

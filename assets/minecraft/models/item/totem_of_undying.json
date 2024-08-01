@@ -5,18 +5,18 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":2}, "model": "custom/totem_of_undying-cow"},
-		{"predicate": {"custom_model_data":3}, "model": "custom/totem_of_undying-enderman"},
-		{"predicate": {"custom_model_data":4}, "model": "custom/totem_of_undying-evoker"},
-		{"predicate": {"custom_model_data":5}, "model": "custom/totem_of_undying-pillager"},
-		{"predicate": {"custom_model_data":6}, "model": "custom/totem_of_undying-white"},
-		{"predicate": {"custom_model_data":7}, "model": "custom/totem_of_undying-pig"},
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/totem"},
-		{"predicate": {"custom_model_data":101}, "model": "custom/tef/totem2"},
-		{"predicate": {"custom_model_data":102}, "model": "custom/tef/totem2void"},
-		{"predicate": {"custom_model_data":200}, "model": "custom/noah/totem"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/totem"},
-		{"predicate": {"custom_model_data":500}, "model": "custom/wolf/coffee_totem"}
+		{"predicate": {"custom_model_data":2}, "model": "vanillaflux:public/totem_of_undying-cow"},
+		{"predicate": {"custom_model_data":3}, "model": "vanillaflux:public/totem_of_undying-enderman"},
+		{"predicate": {"custom_model_data":4}, "model": "vanillaflux:public/totem_of_undying-evoker"},
+		{"predicate": {"custom_model_data":5}, "model": "vanillaflux:public/totem_of_undying-pillager"},
+		{"predicate": {"custom_model_data":6}, "model": "vanillaflux:public/totem_of_undying-white"},
+		{"predicate": {"custom_model_data":7}, "model": "vanillaflux:public/totem_of_undying-pig"},
+		{"predicate": {"custom_model_data":100}, "model": "vanillaflux:tef/totem"},
+		{"predicate": {"custom_model_data":101}, "model": "vanillaflux:tef/totem2"},
+		{"predicate": {"custom_model_data":102}, "model": "vanillaflux:tef/totem2void"},
+		{"predicate": {"custom_model_data":200}, "model": "vanillaflux:noah/totem"},
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/totem"},
+		{"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/coffee_totem"}
 		
 	]
 }

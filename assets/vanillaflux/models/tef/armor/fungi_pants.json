@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/tef/fungi_pants"
+		"layer0": "vanillaflux:item/tef/fungi_pants"
 	}
 }

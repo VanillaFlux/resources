@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/tef/armor/crown"
+		"layer0": "vanillaflux:item/tef/armor/crown"
 	}
 }

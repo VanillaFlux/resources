@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/wolf/coffee_totem"
+		"layer0": "vanillaflux:item/wolf/coffee_totem"
 	}
 }

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/tef/plushies/robeplush"
+		"0": "vanillaflux:item/tef/plushies/robeplush"
 	},
 	"elements": [
 		{

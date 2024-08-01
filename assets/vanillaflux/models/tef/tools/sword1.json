@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/custom/tef/tools/sword1"
+		"layer0": "vanillaflux:item/tef/tools/sword1"
 	}
 }

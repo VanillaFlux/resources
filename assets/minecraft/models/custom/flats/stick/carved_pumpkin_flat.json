@@ -1,8 +1,0 @@
-{
-	"parent": "custom/flats/stick/flat",
-	"textures": {
-		"up": "minecraft:block/carved_pumpkin",
-		"down": "minecraft:block/pumpkin_side",
-		"side": "minecraft:block/pumpkin_side"
-  }
-}

@@ -5,6 +5,6 @@
         "layer1": "item/potion"
     },
 	"overrides": [
-		{"predicate": {"custom_model_data": 600}, "model": "custom/nintii/night_vision"}
+		{"predicate": {"custom_model_data": 600}, "model": "vanillaflux:nintii/night_vision"}
 	]
 }

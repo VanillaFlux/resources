@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/nintii/purring_maggot_juice",
-		"particle": "item/custom/nintii/purring_maggot_juice"
+		"0": "vanillaflux:item/nintii/purring_maggot_juice",
+		"particle": "vanillaflux:item/nintii/purring_maggot_juice"
 	},
 	"elements": [
 		{

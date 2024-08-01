@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/custom/jec/netherite_sword"
+		"layer0": "vanillaflux:item/jec/netherite_sword"
 	}
 }

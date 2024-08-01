@@ -16,8 +16,8 @@
 		{"predicate": {"trim_type": 0.9}, "model": "minecraft:item/netherite_helmet_lapis_trim"},
 		{"predicate": {"trim_type": 1.0}, "model": "minecraft:item/netherite_helmet_amethyst_trim"},
 		
-	    {"predicate": {"custom_model_data":100}, "model": "custom/tef/shroom_cap"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_hat_netherite"},
-		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/pirate_hat_netherite2"}
+	    {"predicate": {"custom_model_data":100}, "model": "vanillaflux:tef/shroom_cap"},
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/armor/pirate_hat_netherite"},
+		{"predicate": {"custom_model_data":301}, "model": "vanillaflux:quick/armor/pirate_hat_netherite2"}
 	]
 }

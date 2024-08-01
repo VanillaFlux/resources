@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "item/custom/tef/plushies/plushboi",
-		"1": "item/custom/tef/plushies/sculk_stuffing",
-		"particle": "item/custom/tef/plushies/sculk_stuffing"
+		"0": "vanillaflux:item/tef/plushies/plushboi",
+		"1": "vanillaflux:item/tef/plushies/sculk_stuffing",
+		"particle": "vanillaflux:item/tef/plushies/sculk_stuffing"
 	},
 	"elements": [
 		{

@@ -6,18 +6,18 @@
 	
 	"overrides": [
 
-		{"predicate": {"custom_model_data":1}, "model": "custom/books/writable_book1"},
-		{"predicate": {"custom_model_data":2}, "model": "custom/books/writable_book2"},
-		{"predicate": {"custom_model_data":3}, "model": "custom/books/writable_book3"},
-		{"predicate": {"custom_model_data":4}, "model": "custom/books/writable_book4"},
-		{"predicate": {"custom_model_data":5}, "model": "custom/books/writable_book5"},
-		{"predicate": {"custom_model_data":6}, "model": "custom/books/writable_book6"},
-		{"predicate": {"custom_model_data":7}, "model": "custom/books/writable_book7"},
-		{"predicate": {"custom_model_data":8}, "model": "custom/books/writable_book8"},
-		{"predicate": {"custom_model_data":9}, "model": "custom/books/writable_book9"},
-		{"predicate": {"custom_model_data":10}, "model": "custom/books/writable_book10"},
-		{"predicate": {"custom_model_data":11}, "model": "custom/books/writable_book11"},
-		{"predicate": {"custom_model_data":12}, "model": "custom/books/writable_book12"},
-        {"predicate": {"custom_model_data":500}, "model": "custom/wolf/envelope"}
+		{"predicate": {"custom_model_data":1}, "model": "vanillaflux:public/books/writable_book1"},
+		{"predicate": {"custom_model_data":2}, "model": "vanillaflux:public/books/writable_book2"},
+		{"predicate": {"custom_model_data":3}, "model": "vanillaflux:public/books/writable_book3"},
+		{"predicate": {"custom_model_data":4}, "model": "vanillaflux:public/books/writable_book4"},
+		{"predicate": {"custom_model_data":5}, "model": "vanillaflux:public/books/writable_book5"},
+		{"predicate": {"custom_model_data":6}, "model": "vanillaflux:public/books/writable_book6"},
+		{"predicate": {"custom_model_data":7}, "model": "vanillaflux:public/books/writable_book7"},
+		{"predicate": {"custom_model_data":8}, "model": "vanillaflux:public/books/writable_book8"},
+		{"predicate": {"custom_model_data":9}, "model": "vanillaflux:public/books/writable_book9"},
+		{"predicate": {"custom_model_data":10}, "model": "vanillaflux:public/books/writable_book10"},
+		{"predicate": {"custom_model_data":11}, "model": "vanillaflux:public/books/writable_book11"},
+		{"predicate": {"custom_model_data":12}, "model": "vanillaflux:public/books/writable_book12"},
+        {"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/envelope"}
 	]
 }

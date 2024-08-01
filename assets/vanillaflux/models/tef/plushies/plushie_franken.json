@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/tef/plushies/franken_plushie"
+		"0": "vanillaflux:item/tef/plushies/franken_plushie"
 	},
 	"elements": [
 		{

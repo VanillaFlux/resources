@@ -17,7 +17,7 @@
 		{"predicate": {"trim_type": 0.9}, "model": "minecraft:item/golden_helmet_lapis_trim"},
 		{"predicate": {"trim_type": 1.0}, "model": "minecraft:item/golden_helmet_amethyst_trim"},
 		
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/armor/crown"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_hat_gold"}
+		{"predicate": {"custom_model_data":100}, "model": "vanillaflux:tef/armor/crown"},
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/armor/pirate_hat_gold"}
 	]
 }

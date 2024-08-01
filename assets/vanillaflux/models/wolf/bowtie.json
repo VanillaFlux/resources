@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/wolf/bowtie",
-		"particle": "item/custom/wolf/bowtie"
+		"0": "vanillaflux:item/wolf/bowtie",
+		"particle": "vanillaflux:item/wolf/bowtie"
 	},
 	"elements": [
 		{

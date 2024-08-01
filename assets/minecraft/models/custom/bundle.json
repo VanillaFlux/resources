@@ -1,8 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/custom/bundle_1",
-		"layer1": "item/diamond",
-		"layer2": "item/custom/bundle_0"
-    }
-}

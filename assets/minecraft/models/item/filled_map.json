@@ -5,8 +5,8 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/flats/map/redstone_lamp_on_flat"},
-    {"predicate": {"custom_model_data":2}, "model": "custom/flats/map/cherry_leaves_on_flat"},
-	{"predicate": {"custom_model_data":3}, "model": "custom/flats/stick/carved_pumpkin_flat"}
+    {"predicate": {"custom_model_data":1}, "model": "vanillaflux:public/flats/map/redstone_lamp_on_flat"},
+    {"predicate": {"custom_model_data":2}, "model": "vanillaflux:public/flats/map/cherry_leaves_on_flat"},
+	{"predicate": {"custom_model_data":3}, "model": "vanillaflux:public/flats/stick/carved_pumpkin_flat"}
   ]
 }

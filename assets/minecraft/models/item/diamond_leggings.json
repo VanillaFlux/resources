@@ -16,6 +16,6 @@
 		{"predicate": {"trim_type": 0.9}, "model": "minecraft:item/diamond_leggings_lapis_trim"},
 		{"predicate": {"trim_type": 1.0}, "model": "minecraft:item/diamond_leggings_amethyst_trim"},
 		
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_pants_diamond"}
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/armor/pirate_pants_diamond"}
 	]
 }

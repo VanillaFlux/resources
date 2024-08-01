@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/quick/armor/pirate_hat_netherite2"
+		"layer0": "vanillaflux:item/quick/armor/pirate_hat_netherite2"
 	}
 }

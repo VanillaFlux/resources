@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/tef/totem2"
+		"layer0": "vanillaflux:item/tef/totem2"
 	}
 }

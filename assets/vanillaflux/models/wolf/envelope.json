@@ -3,8 +3,8 @@
 	"parent": "written_book",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/wolf/envelope",
-		"particle": "item/custom/wolf/envelope"
+		"0": "vanillaflux:item/wolf/envelope",
+		"particle": "vanillafluxitem/wolf/envelope"
 	},
 	"elements": [
 		{

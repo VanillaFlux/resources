@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"2": "item/custom/tef/plushies/wolf_plush",
-		"3": "item/custom/tef/plushies/flower",
-		"particle": "item/custom/tef/plushies/flower"
+		"2": "vanillaflux:item/tef/plushies/wolf_plush",
+		"3": "vanillaflux:item/tef/plushies/flower",
+		"particle": "vanillaflux:item/tef/plushies/flower"
 	},
 	"elements": [
 		{

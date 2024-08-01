@@ -17,8 +17,8 @@
 		{"predicate": {"trim_type": 1.0}, "model": "minecraft:item/netherite_boots_amethyst_trim"},
 		
 		
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/mycelium_boots"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_boots_netherite"},
-		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/pirate_boots_netherite2"}
+		{"predicate": {"custom_model_data":100}, "model": "vanillaflux:tef/mycelium_boots"},
+		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/armor/pirate_boots_netherite"},
+		{"predicate": {"custom_model_data":301}, "model": "vanillaflux:quick/armor/pirate_boots_netherite2"}
 	]
 }

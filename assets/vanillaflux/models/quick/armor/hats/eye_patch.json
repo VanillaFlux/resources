@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/quick/armor/eye_patch",
-		"1": "item/custom/quick/armor/eye_patch2",
-		"particle": "item/custom/quick/armor/eye_patch"
+		"0": "vanillaflux:item/quick/armor/eye_patch",
+		"1": "vanillaflux:item/quick/armor/eye_patch2",
+		"particle": "vanillaflux:item/quick/armor/eye_patch"
 	},
 	"elements": [
 		{

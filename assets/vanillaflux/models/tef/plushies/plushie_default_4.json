@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/tef/plushies/plushboi2"
+		"0": "vanillaflux:item/tef/plushies/plushboi2"
 	},
 	"elements": [
 		{

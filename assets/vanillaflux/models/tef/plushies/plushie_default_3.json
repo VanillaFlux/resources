@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/tef/plushies/plushboi",
-		"2": "item/custom/tef/plushies/shield",
-		"3": "item/custom/tef/plushies/handle",
-		"4": "item/custom/tef/plushies/sword",
-		"5": "item/custom/tef/plushies/wristguard",
-		"particle": "item/custom/tef/plushies/shield"
+		"1": "vanillaflux:item/tef/plushies/plushboi",
+		"2": "vanillaflux:item/tef/plushies/shield",
+		"3": "vanillaflux:item/tef/plushies/handle",
+		"4": "vanillaflux:item/tef/plushies/sword",
+		"5": "vanillaflux:item/tef/plushies/wristguard",
+		"particle": "vanillaflux:item/tef/plushies/shield"
 	},
 	"elements": [
 		{

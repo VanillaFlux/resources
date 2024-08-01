@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/tef/plushies/summer_plush_hat",
-		"2": "item/custom/tef/plushies/summer_plush",
-		"particle": "item/custom/tef/plushies/summer_plush"
+		"1": "vanillaflux:item/tef/plushies/summer_plush_hat",
+		"2": "vanillaflux:item/tef/plushies/summer_plush",
+		"particle": "vanillaflux:item/tef/plushies/summer_plush"
 	},
 	"elements": [
 		{

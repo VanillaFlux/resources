@@ -5,10 +5,10 @@
   },
   "overrides": [
 		
-		{"predicate": {"custom_model_data":1001}, "model": "vanillaflux:cakes/tef_cake"},
-        {"predicate": {"custom_model_data":1002}, "model": "custom/cakes/bree_cake"},
-		{"predicate": {"custom_model_data":1003}, "model": "custom/cakes/rotten_cake"},
-		{"predicate": {"custom_model_data":1004}, "model": "custom/cakes/carrot_cake"},
-        {"predicate": {"custom_model_data":1005}, "model": "custom/cakes/mea_cake"}
+		{"predicate": {"custom_model_data":1001}, "model": "vanillaflux:comm/cakes/tef_cake"},
+        {"predicate": {"custom_model_data":1002}, "model": "vanillaflux:comm/cakes/bree_cake"},
+		{"predicate": {"custom_model_data":1003}, "model": "vanillaflux:comm/cakes/rotten_cake"},
+		{"predicate": {"custom_model_data":1004}, "model": "vanillaflux:comm/cakes/carrot_cake"},
+        {"predicate": {"custom_model_data":1005}, "model": "vanillaflux:comm/cakes/mea_cake"}
 	]
 }

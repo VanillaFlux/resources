@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/tef/shroom_cap"
+		"layer0": "vanillaflux:item/tef/shroom_cap"
 	}
 }
