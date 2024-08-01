@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/golden_helmet"
+		"layer0": "item/golden_carrot"
 	},
 	"overrides": [
 	    {"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/pickle"},
