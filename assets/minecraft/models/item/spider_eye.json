@@ -7,6 +7,6 @@
 	"overrides": [
 
 
-        {"predicate": {"custom_model_data":500}, "model": "custom/wolf/rose_g"}
+        {"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/rose_g"}
 	]
 }
