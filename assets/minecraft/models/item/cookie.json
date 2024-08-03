@@ -17,7 +17,7 @@
 		{"predicate": {"custom_model_data":52}, "model": "vanillaflux:comm/october/pumpkin_cookie"},
 		{"predicate": {"custom_model_data":100}, "model": "vanillaflux:tef/food/chocolate_bar_1"},
 		{"predicate": {"custom_model_data":101}, "model": "vanillaflux:tef/food/chocolate_bar_2"},
-		{"predicate": {"custom_model_data":102}, "model": "vanillafux:tef/food/candy_corn"},
+		{"predicate": {"custom_model_data":102}, "model": "vanillaflux:tef/food/candy_corn"},
 		{"predicate": {"custom_model_data":103}, "model": "vanillaflux:tef/food/lollipop"},
 		{"predicate": {"custom_model_data":104}, "model": "vanillaflux:tef/food/cupcake"}
 	]
