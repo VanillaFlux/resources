@@ -16,6 +16,7 @@
 		{"predicate": {"custom_model_data":102}, "model": "vanillaflux:tef/totem2void"},
 		{"predicate": {"custom_model_data":200}, "model": "vanillaflux:noah/totem"},
 		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/totem"},
+		{"predicate": {"custom_model_data":400}, "model": "vanillaflux:nintii/arken_stone"},
 		{"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/coffee_totem"}
 		
 	]
