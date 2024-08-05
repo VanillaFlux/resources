@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "vanillaflux:item/comm/cakes/mea/princess",
-		"1": "vanillaflux:item/comm/cakes/mea/raspberry16",
-		"particle": "vanillaflux:item/comm/cakes/mea/princess"
+		"0": "vanillaflux:item/comm/cakes/mea/princesstarta",
+		"1": "vanillaflux:item/comm/cakes/mea/raspberry",
+		"particle": "vanillaflux:item/comm/cakes/mea/princesstarta"
 	},
 	"elements": [
 		{
