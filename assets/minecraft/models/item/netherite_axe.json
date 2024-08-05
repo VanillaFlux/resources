@@ -6,7 +6,7 @@
     },
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "vanillaflux:/tef/tools/axe1"},
+		{"predicate": {"custom_model_data":100}, "model": "vanillaflux:tef/tools/axe1"},
 		{"predicate": {"custom_model_data":101}, "model": "vanillaflux:tef/tools/axe2"},
 		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/tools/netherite_axe"}
 	]
