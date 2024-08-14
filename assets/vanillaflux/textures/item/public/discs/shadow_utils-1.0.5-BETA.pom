@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- do_not_remove: published-with-gradle-metadata -->
+<modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.QuickScythe</groupId>
+  <artifactId>shadow_utils</artifactId>
+  <version>1.0.5-BETA</version>
+  <packaging>pom</packaging>
+  <name>QuickScythe/shadow_utils</name>
+  <url>https://github.com/QuickScythe/shadow_utils</url>
+  <inceptionYear>2024</inceptionYear>
+  <developers>
+    <developer>
+      <id>QuickScythe</id>
+      <name></name>
+      <email></email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git://github.com/QuickScythe/shadow_utils.git</connection>
+    <developerConnection>scm:git://github.com/QuickScythe/shadow_utils.git</developerConnection>
+    <url>git://github.com/QuickScythe/shadow_utils.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>de.maxhenkel.voicechat</groupId>
+      <artifactId>voicechat-api</artifactId>
+      <version>2.5.0</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
