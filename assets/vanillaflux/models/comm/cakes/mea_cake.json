@@ -3,8 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "vanillaflux:item/comm/cakes/mea/princesstarta",
-		"3": "vanillaflux:item/comm/cakes/mea/raspberry",
-		"particle": "block/texture"
+		"3": "vanillaflux:item/comm/cakes/mea/raspberry"
 	},
 	"elements": [
 		{
@@ -1293,8 +1292,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -12.1],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [0, 0, -24.25],
+			"scale": [3, 3, 3]
 		}
 	},
 	"groups": [
