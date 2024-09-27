@@ -5,6 +5,8 @@
     },
 
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "vanillaflux:public/bundle/bundle"}
+        {"predicate": {"custom_model_data":1}, "model": "vanillaflux:public/bundle/bundle"},
+		{ "predicate": { "filled": 0.0000001 }, "model": "item/bundle_filled" }
+
     ]
 }
