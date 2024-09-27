@@ -18,6 +18,23 @@
 		{"predicate": {"custom_model_data":10}, "model": "vanillaflux:public/books/writable_book10"},
 		{"predicate": {"custom_model_data":11}, "model": "vanillaflux:public/books/writable_book11"},
 		{"predicate": {"custom_model_data":12}, "model": "vanillaflux:public/books/writable_book12"},
-        {"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/envelope"}
+        {"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/envelope"},
+		{"predicate": {"custom_model_data":501}, "model": "vanillaflux:wolf/notebooks/comnb_black"},
+		{"predicate": {"custom_model_data":502}, "model": "vanillaflux:wolf/notebooks/comnb_blue"},
+		{"predicate": {"custom_model_data":503}, "model": "vanillaflux:wolf/notebooks/comnb_brown"},
+		{"predicate": {"custom_model_data":504}, "model": "vanillaflux:wolf/notebooks/comnb_cyan"},
+		{"predicate": {"custom_model_data":505}, "model": "vanillaflux:wolf/notebooks/comnb_green"},
+		{"predicate": {"custom_model_data":506}, "model": "vanillaflux:wolf/notebooks/comnb_grey"},
+		{"predicate": {"custom_model_data":507}, "model": "vanillaflux:wolf/notebooks/comnb_lime"},
+		{"predicate": {"custom_model_data":508}, "model": "vanillaflux:wolf/notebooks/comnb_ltgrey"},
+		{"predicate": {"custom_model_data":509}, "model": "vanillaflux:wolf/notebooks/comnb_ltblue"},
+		{"predicate": {"custom_model_data":510}, "model": "vanillaflux:wolf/notebooks/comnb_magenta"},
+		{"predicate": {"custom_model_data":511}, "model": "vanillaflux:wolf/notebooks/comnb_orange"},
+		{"predicate": {"custom_model_data":512}, "model": "vanillaflux:wolf/notebooks/comnb_pink"},
+		{"predicate": {"custom_model_data":513}, "model": "vanillaflux:wolf/notebooks/comnb_purple"},
+		{"predicate": {"custom_model_data":514}, "model": "vanillaflux:wolf/notebooks/comnb_red"},
+		{"predicate": {"custom_model_data":515}, "model": "vanillaflux:wolf/notebooks/comnb_white"},
+		{"predicate": {"custom_model_data":516}, "model": "vanillaflux:wolf/notebooks/comnb_yellow"}
+
 	]
 }
