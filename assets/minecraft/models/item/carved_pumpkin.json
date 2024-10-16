@@ -53,6 +53,13 @@
 		{"predicate": {"custom_model_data":329}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/t"},
 		{"predicate": {"custom_model_data":330}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/bg"},
 		{"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/bowtie"},
+		{"predicate": {"custom_model_data":700}, "model": "vanillaflux:comm/october/bree/flower_crown"},
+		{"predicate": {"custom_model_data":701}, "model": "vanillaflux:comm/october/bree/glasses_hi"},
+		{"predicate": {"custom_model_data":702}, "model": "vanillaflux:comm/october/bree/glasses_low"},
+		{"predicate": {"custom_model_data":703}, "model": "vanillaflux:comm/october/bree/mushrooms"},
+		{"predicate": {"custom_model_data":704}, "model": "vanillaflux:comm/october/bree/vampire"},
+		{"predicate": {"custom_model_data":705}, "model": "vanillaflux:comm/october/bree/warden_hat"},
+		{"predicate": {"custom_model_data":706}, "model": "vanillaflux:comm/october/bree/witch_hat"},
 		{"predicate": {"custom_model_data":1000}, "model": "vanillaflux:trophy/trophy_base"},
 		{"predicate": {"custom_model_data":1001}, "model": "vanillaflux:trophy/trophy_fish"},
 		{"predicate": {"custom_model_data":1600}, "model": "vanillaflux:derrek/mushroom_hat"}
