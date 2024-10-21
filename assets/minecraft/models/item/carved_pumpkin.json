@@ -53,6 +53,7 @@
 		{"predicate": {"custom_model_data":329}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/t"},
 		{"predicate": {"custom_model_data":330}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/bg"},
 		{"predicate": {"custom_model_data":500}, "model": "vanillaflux:wolf/bowtie"},
+		{"predicate": {"custom_model_data":501}, "model": "vanillaflux:comm/october/cauldron_bubbles"},
 		{"predicate": {"custom_model_data":700}, "model": "vanillaflux:comm/october/bree/flower_crown"},
 		{"predicate": {"custom_model_data":701}, "model": "vanillaflux:comm/october/bree/glasses_hi"},
 		{"predicate": {"custom_model_data":702}, "model": "vanillaflux:comm/october/bree/glasses_low"},
