@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_two_candles",
+  "textures": {
+    "all": "vanillaflux:item/comm/october/cauldron_bubbles",
+    "particle": "minecraft:block/yellow_candle_lit"
+  }
+}
