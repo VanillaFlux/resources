@@ -1,7 +1,7 @@
 {
   "textures": {
-    "particle": "vanillaflux:item/comm/october/cross_bubbles",
-    "portal": "vanillaflux:item/comm/october/cross_bubbles"
+    "particle": "vanillaflux:item/comm/october/cauldron_bubbles",
+    "portal": "vanillaflux:item/comm/october/cauldron_bubbles"
   },
   "elements": [
     {   "from": [ 6, 0, 0 ],
