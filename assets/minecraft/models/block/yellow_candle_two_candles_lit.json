@@ -1,7 +1,15 @@
 {
-  "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "vanillaflux:item/comm/october/cross_bubbles",
-    "particle": "minecraft:block/yellow_candle_lit"
-  }
+    "particle": "vanillaflux:item/comm/october/cross_bubbles",
+    "portal": "vanillaflux:item/comm/october/cross_bubbles"
+  },
+  "elements": [
+    {   "from": [ 6, 0, 0 ],
+      "to": [ 10, 16, 16 ],
+      "faces": {
+        "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#portal" },
+        "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#portal" }
+      }
+    }
+  ]
 }
