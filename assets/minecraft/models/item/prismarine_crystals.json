@@ -15,5 +15,5 @@
     {"predicate": {"custom_model_data":507}, "model": "vanillaflux:comm/october/haunted_house/sunrise_potion"},
     {"predicate": {"custom_model_data":508}, "model": "vanillaflux:comm/october/haunted_house/toil_bubble"},
     {"predicate": {"custom_model_data":509}, "model": "vanillaflux:comm/october/haunted_house/wolfbane"}
-
+  ]
 }
