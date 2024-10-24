@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "vanillaflux:item/comm/october/haunted_house/bleeding_heart"
+	}
+}

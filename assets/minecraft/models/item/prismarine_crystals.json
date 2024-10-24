@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/prismarine_crystals"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":500}, "model": "vanillaflux:comm/october/haunted_house/air_plant"},
+    {"predicate": {"custom_model_data":501}, "model": "vanillaflux:comm/october/haunted_house/bleeding_heart"},
+    {"predicate": {"custom_model_data":502}, "model": "vanillaflux:comm/october/haunted_house/fiddle_fern"},
+    {"predicate": {"custom_model_data":503}, "model": "vanillaflux:comm/october/haunted_house/invite"},
+    {"predicate": {"custom_model_data":504}, "model": "vanillaflux:comm/october/haunted_house/magma_cricket"},
+    {"predicate": {"custom_model_data":505}, "model": "vanillaflux:comm/october/haunted_house/oregano"},
+    {"predicate": {"custom_model_data":506}, "model": "vanillaflux:comm/october/haunted_house/skull_trumpet"},
+    {"predicate": {"custom_model_data":507}, "model": "vanillaflux:comm/october/haunted_house/sunrise_potion"},
+    {"predicate": {"custom_model_data":508}, "model": "vanillaflux:comm/october/haunted_house/toil_bubble"},
+    {"predicate": {"custom_model_data":509}, "model": "vanillaflux:comm/october/haunted_house/wolfbane"}
+
+}
