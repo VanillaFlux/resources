@@ -13,6 +13,8 @@
     {"predicate": {"custom_model_data":505}, "model": "vanillaflux:comm/october/haunted_house/oregano"},
     {"predicate": {"custom_model_data":506}, "model": "vanillaflux:comm/october/haunted_house/skull_trumpets"},
     {"predicate": {"custom_model_data":507}, "model": "vanillaflux:comm/october/haunted_house/sunrise_potion"},
-    {"predicate": {"custom_model_data":508}, "model": "vanillaflux:comm/october/haunted_house/wolfbane"}
+    {"predicate": {"custom_model_data":508}, "model": "vanillaflux:comm/october/haunted_house/wolfbane"},
+    {"predicate": {"custom_model_data":509}, "model": "vanillaflux:comm/october/haunted_house/luna_moth"},
+    {"predicate": {"custom_model_data":510}, "model": "vanillaflux:comm/october/haunted_house/lady_bug"}
   ]
 }/trigger CustomModelData set
