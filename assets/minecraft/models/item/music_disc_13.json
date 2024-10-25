@@ -47,6 +47,9 @@
 		{"predicate": {"custom_model_data":41}, "model": "vanillaflux:public/discs/disc41"},
 		{"predicate": {"custom_model_data":42}, "model": "vanillaflux:public/discs/disc42"},
 		{"predicate": {"custom_model_data":43}, "model": "vanillaflux:public/discs/disc43"},
-		{"predicate": {"custom_model_data":44}, "model": "vanillaflux:public/discs/disc44"}
-	]
+		{"predicate": {"custom_model_data":44}, "model": "vanillaflux:public/discs/disc44"},
+	    {"predicate": {"custom_model_data":500}, "model": "vanillaflux:comm/october/haunted_house/discb"},
+	    {"predicate": {"custom_model_data":501}, "model": "vanillaflux:comm/october/haunted_house/discg"},
+	    {"predicate": {"custom_model_data":502}, "model": "vanillaflux:comm/october/haunted_house/discs"}
+  ]
 }

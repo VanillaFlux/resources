@@ -81,6 +81,7 @@
 		{"predicate": {"custom_model_data":721}, "model": "vanillaflux:comm/october/bree/witch_hat_brown"},
 		{"predicate": {"custom_model_data":1000}, "model": "vanillaflux:trophy/trophy_base"},
 		{"predicate": {"custom_model_data":1001}, "model": "vanillaflux:trophy/trophy_fish"},
-		{"predicate": {"custom_model_data":1600}, "model": "vanillaflux:derrek/mushroom_hat"}
+		{"predicate": {"custom_model_data":1600}, "model": "vanillaflux:derrek/mushroom_hat"},
+
 	]
 }
