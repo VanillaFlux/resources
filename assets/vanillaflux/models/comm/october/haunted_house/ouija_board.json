@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "vanillaflux:item/comm/october/haunted_house/ouija_board",
+		"1": "vanillaflux:item/comm/october/haunted_house/ouija_board_back",
+		"particle": "vanillaflux:item/comm/october/haunted_house/ouija_board"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 2],
+			"to": [16, 1, 14],
+			"faces": {
+				"north": {"uv": [0, 2, 16, 2.5], "texture": "#1"},
+				"east": {"uv": [0, 2, 0.5, 14], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 13.5, 16, 14], "texture": "#1"},
+				"west": {"uv": [15.5, 2, 16, 14], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 2, 16, 14], "texture": "#0"},
+				"down": {"uv": [0, 2, 16, 14], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 16, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
