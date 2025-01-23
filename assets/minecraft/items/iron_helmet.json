@@ -11,66 +11,6 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_quartz_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_iron_darker_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_netherite_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_redstone_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_copper_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_gold_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_emerald_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_diamond_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_lapis_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_helmet_amethyst_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
 					"model": "vanillaflux:item/quick/armor/pirate_hat_iron"
 				},
 				"threshold": 300

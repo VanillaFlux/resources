@@ -8,66 +8,7 @@
 			"model": "minecraft:item/netherite_chestplate"
 		},
 		"entries": [
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_quartz_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_iron_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_netherite_darker_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_redstone_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_copper_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_gold_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_emerald_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_diamond_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_lapis_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/netherite_chestplate_amethyst_trim"
-				}
-			},
+			
 			{
 				"model": {
 					"type": "minecraft:model",

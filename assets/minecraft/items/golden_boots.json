@@ -11,66 +11,6 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_quartz_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_iron_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_netherite_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_redstone_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_copper_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_gold_darker_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_emerald_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_diamond_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_lapis_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/golden_boots_amethyst_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
 					"model": "vanillaflux:item/quick/armor/pirate_boots_gold"
 				},
 				"threshold": 300

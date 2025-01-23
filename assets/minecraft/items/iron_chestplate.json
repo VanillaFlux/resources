@@ -11,66 +11,6 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_quartz_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_iron_darker_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_netherite_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_redstone_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_copper_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_gold_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_emerald_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_diamond_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_lapis_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
-					"model": "minecraft:item/iron_chestplate_amethyst_trim"
-				}
-			},
-			{
-				"model": {
-					"type": "minecraft:model",
 					"model": "vanillaflux:item/quick/armor/pirate_vest_iron"
 				},
 				"threshold": 300
