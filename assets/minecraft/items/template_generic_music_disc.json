@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "custom/cakes/tef_cake"}
+	]
+}

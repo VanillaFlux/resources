@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "vanillaflux:quick/armor/hats/pirate_hat",
+	"textures": {
+		"0": "vanillaflux:item/quick/armor/hats/cyan/pirate_hat_1",
+		"1": "vanillaflux:item/quick/armor/hats/cyan/pirate_hat_2",
+		"2": "vanillaflux:item/quick/armor/hats/cyan/feather",
+		"particle": "vanillaflux:item/quick/armor/hats/cyan/pirate_hat_1"
+	}
+}

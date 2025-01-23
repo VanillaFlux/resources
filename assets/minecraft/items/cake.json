@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cake"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/cakes/tef_cake"
+        },
+        "threshold": 1001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/cakes/bree_cake"
+        },
+        "threshold": 1002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/cakes/rotten_cake"
+        },
+        "threshold": 1003
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/cakes/carrot_cake"
+        },
+        "threshold": 1004
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/cakes/mea_cake"
+        },
+        "threshold": 1005
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/cakes/nintii_cake"
+        },
+        "threshold": 1006
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/book"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book1"
+				},
+				"threshold": 1
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book2"
+				},
+				"threshold": 2
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book3"
+				},
+				"threshold": 3
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book4"
+				},
+				"threshold": 4
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book5"
+				},
+				"threshold": 5
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book6"
+				},
+				"threshold": 6
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book7"
+				},
+				"threshold": 7
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book8"
+				},
+				"threshold": 8
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book9"
+				},
+				"threshold": 9
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book10"
+				},
+				"threshold": 10
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book11"
+				},
+				"threshold": 11
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/books/book12"
+				},
+				"threshold": 12
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:wolf/envelope"
+				},
+				"threshold": 500
+			}
+		]
+	}
+}

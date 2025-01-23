@@ -1,0 +1,97 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/prismarine_crystals"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/air_plant"
+        },
+        "threshold": 500
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/bleeding_heart"
+        },
+        "threshold": 501
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/fiddle_fern"
+        },
+        "threshold": 502
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/invite"
+        },
+        "threshold": 503
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/magma_cricket"
+        },
+        "threshold": 504
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/oregano"
+        },
+        "threshold": 505
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/skull_trumpets"
+        },
+        "threshold": 506
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/sunrise_potion"
+        },
+        "threshold": 507
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/wolfbane"
+        },
+        "threshold": 508
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/luna_moth"
+        },
+        "threshold": 509
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/october/haunted_house/lady_bug"
+        },
+        "threshold": 510
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:wolf/holidays/candy_cane_crosses"
+        },
+        "threshold": 511
+      }
+    ]
+  }
+}

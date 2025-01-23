@@ -1,0 +1,80 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/diamond_boots"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_quartz_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_iron_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_netherite_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_redstone_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_copper_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_gold_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_emerald_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_diamond_darker_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_lapis_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/diamond_boots_amethyst_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/pirate_boots_diamond"
+				},
+				"threshold": 300
+			}
+		]
+	}
+}

@@ -1,0 +1,80 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/golden_leggings"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_quartz_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_iron_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_netherite_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_redstone_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_copper_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_gold_darker_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_emerald_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_diamond_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_lapis_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_leggings_amethyst_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/pirate_pants_gold"
+				},
+				"threshold": 300
+			}
+		]
+	}
+}

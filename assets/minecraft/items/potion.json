@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/potion"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:nintii/night_vision"
+        },
+        "threshold": 600
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:nintii/invisibility"
+        },
+        "threshold": 601
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:nintii/leaping"
+        },
+        "threshold": 602
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:nintii/swiftness"
+        },
+        "threshold": 603
+      }
+    ]
+  }
+}

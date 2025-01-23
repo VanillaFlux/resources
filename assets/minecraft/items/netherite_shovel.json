@@ -1,0 +1,41 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/netherite_shovel"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:tef/tools/shovel2"
+				},
+				"threshold": 100
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/tools/netherite_shovel"
+				},
+				"threshold": 300
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/tools/netherite_shovel_3d"
+				},
+				"threshold": 301
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:derrek/derrek_shovel"
+				},
+				"threshold": 1600
+			}
+		]
+	}
+}

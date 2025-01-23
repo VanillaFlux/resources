@@ -1,0 +1,286 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/firework_rocket"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket1"
+				},
+				"threshold": 1
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket2"
+				},
+				"threshold": 2
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket3"
+				},
+				"threshold": 3
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket4"
+				},
+				"threshold": 4
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket5"
+				},
+				"threshold": 5
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket6"
+				},
+				"threshold": 6
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket7"
+				},
+				"threshold": 7
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket8"
+				},
+				"threshold": 8
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket9"
+				},
+				"threshold": 9
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket10"
+				},
+				"threshold": 10
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket11"
+				},
+				"threshold": 11
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket12"
+				},
+				"threshold": 12
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket13"
+				},
+				"threshold": 13
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket14"
+				},
+				"threshold": 14
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket15"
+				},
+				"threshold": 15
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket16"
+				},
+				"threshold": 16
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket17"
+				},
+				"threshold": 17
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket18"
+				},
+				"threshold": 18
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket19"
+				},
+				"threshold": 19
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket20"
+				},
+				"threshold": 20
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket21"
+				},
+				"threshold": 21
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket22"
+				},
+				"threshold": 22
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket23"
+				},
+				"threshold": 23
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket24"
+				},
+				"threshold": 24
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket25"
+				},
+				"threshold": 25
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket26"
+				},
+				"threshold": 26
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket27"
+				},
+				"threshold": 27
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket28"
+				},
+				"threshold": 28
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket29"
+				},
+				"threshold": 29
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket30"
+				},
+				"threshold": 30
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket31"
+				},
+				"threshold": 31
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket32"
+				},
+				"threshold": 32
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket33"
+				},
+				"threshold": 33
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket34"
+				},
+				"threshold": 34
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket35"
+				},
+				"threshold": 35
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket36"
+				},
+				"threshold": 36
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket37"
+				},
+				"threshold": 37
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/rockets/rocket38"
+				},
+				"threshold": 38
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:tef/tools/rocket1"
+				},
+				"threshold": 100
+			}
+		]
+	}
+}

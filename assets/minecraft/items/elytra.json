@@ -1,0 +1,195 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/elytra"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:tef/armor/elytra"
+				},
+				"threshold": 100
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:tef/armor/elytra/broken_elytra"
+				},
+				"threshold": 100
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra_item"
+				},
+				"threshold": 300
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra"
+				},
+				"threshold": 300
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra1_item"
+				},
+				"threshold": 301
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra1"
+				},
+				"threshold": 301
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra2_item"
+				},
+				"threshold": 302
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra2"
+				},
+				"threshold": 302
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra3_item"
+				},
+				"threshold": 303
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra3"
+				},
+				"threshold": 303
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra4_item"
+				},
+				"threshold": 304
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra4"
+				},
+				"threshold": 304
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra5_item"
+				},
+				"threshold": 305
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra5"
+				},
+				"threshold": 305
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra6_item"
+				},
+				"threshold": 306
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra6"
+				},
+				"threshold": 306
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra7_item"
+				},
+				"threshold": 307
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra7"
+				},
+				"threshold": 307
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra8_item"
+				},
+				"threshold": 308
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra8"
+				},
+				"threshold": 308
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra9_item"
+				},
+				"threshold": 309
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra9"
+				},
+				"threshold": 309
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/elytra10_item"
+				},
+				"threshold": 310
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/elytra/broken_elytra10"
+				},
+				"threshold": 310
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:jec/elytra"
+				},
+				"threshold": 400
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:jec/broken_elytra"
+				},
+				"threshold": 400
+			}
+		]
+	}
+}

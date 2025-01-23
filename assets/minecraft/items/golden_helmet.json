@@ -1,0 +1,87 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/golden_helmet"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_quartz_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_iron_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_netherite_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_redstone_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_copper_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_gold_darker_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_emerald_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_diamond_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_lapis_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/golden_helmet_amethyst_trim"
+				}
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:tef/armor/crown"
+				},
+				"threshold": 100
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/armor/pirate_hat_gold"
+				},
+				"threshold": 300
+			}
+		]
+	}
+}

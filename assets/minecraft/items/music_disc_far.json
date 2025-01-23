@@ -1,0 +1,342 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/music_disc_far"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc1"
+				},
+				"threshold": 1
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc2"
+				},
+				"threshold": 2
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc3"
+				},
+				"threshold": 3
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc4"
+				},
+				"threshold": 4
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc5"
+				},
+				"threshold": 5
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc6"
+				},
+				"threshold": 6
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc7"
+				},
+				"threshold": 7
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc8"
+				},
+				"threshold": 8
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc9"
+				},
+				"threshold": 9
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc10"
+				},
+				"threshold": 10
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc11"
+				},
+				"threshold": 11
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc12"
+				},
+				"threshold": 12
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc13"
+				},
+				"threshold": 13
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc14"
+				},
+				"threshold": 14
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc15"
+				},
+				"threshold": 15
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc16"
+				},
+				"threshold": 16
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc17"
+				},
+				"threshold": 17
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc18"
+				},
+				"threshold": 18
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc19"
+				},
+				"threshold": 19
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc20"
+				},
+				"threshold": 20
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc21"
+				},
+				"threshold": 21
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc22"
+				},
+				"threshold": 22
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc23"
+				},
+				"threshold": 23
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc24"
+				},
+				"threshold": 24
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc25"
+				},
+				"threshold": 25
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc26"
+				},
+				"threshold": 26
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc27"
+				},
+				"threshold": 27
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc28"
+				},
+				"threshold": 28
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc29"
+				},
+				"threshold": 29
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc30"
+				},
+				"threshold": 30
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc31"
+				},
+				"threshold": 31
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc32"
+				},
+				"threshold": 32
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc33"
+				},
+				"threshold": 33
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc34"
+				},
+				"threshold": 34
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc35"
+				},
+				"threshold": 35
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc36"
+				},
+				"threshold": 36
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc37"
+				},
+				"threshold": 37
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc38"
+				},
+				"threshold": 38
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc39"
+				},
+				"threshold": 39
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc40"
+				},
+				"threshold": 40
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc41"
+				},
+				"threshold": 41
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc42"
+				},
+				"threshold": 42
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc43"
+				},
+				"threshold": 43
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:public/discs/disc44"
+				},
+				"threshold": 44
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:comm/october/haunted_house/discb"
+				},
+				"threshold": 500
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:comm/october/haunted_house/discg"
+				},
+				"threshold": 501
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:comm/october/haunted_house/discs"
+				},
+				"threshold": 502
+			}
+		]
+	}
+}

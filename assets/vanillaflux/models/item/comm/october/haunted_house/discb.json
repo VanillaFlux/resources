@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "vanillaflux:item/comm/october/haunted_house/ballroom"
+  }
+}

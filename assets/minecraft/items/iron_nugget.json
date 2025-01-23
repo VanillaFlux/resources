@@ -1,0 +1,160 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_nugget"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingo_cards_pearl/bingocard1"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingo_cards_pearl/bingocard2"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingo_cards_pearl/bingocard3"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingo_cards_pearl/bingocard4"
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingo_cards_pearl/bingocard5"
+        },
+        "threshold": 5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingo_cards_pearl/bingocard6"
+        },
+        "threshold": 6
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingo_cards_pearl/bingocard7"
+        },
+        "threshold": 7
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard01"
+        },
+        "threshold": 8
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard02"
+        },
+        "threshold": 9
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard03"
+        },
+        "threshold": 10
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard04"
+        },
+        "threshold": 11
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard05"
+        },
+        "threshold": 12
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard06"
+        },
+        "threshold": 13
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard07"
+        },
+        "threshold": 14
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard08"
+        },
+        "threshold": 15
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard09"
+        },
+        "threshold": 16
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard10"
+        },
+        "threshold": 17
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard11"
+        },
+        "threshold": 18
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard12"
+        },
+        "threshold": 19
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard13"
+        },
+        "threshold": 20
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:comm/bingrow_cards/bingrowcard14"
+        },
+        "threshold": 21
+      }
+    ]
+  }
+}

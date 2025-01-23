@@ -1,0 +1,48 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/netherite_pickaxe"
+		},
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:tef/tools/pick1"
+				},
+				"threshold": 100
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:tef/tools/pick2"
+				},
+				"threshold": 101
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/tools/netherite_pickaxe"
+				},
+				"threshold": 300
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:quick/tools/netherite_pickaxe2"
+				},
+				"threshold": 301
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "vanillaflux:derrek/derrek_pickaxe"
+				},
+				"threshold": 1600
+			}
+		]
+	}
+}
