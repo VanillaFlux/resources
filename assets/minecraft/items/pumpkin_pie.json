@@ -11,14 +11,14 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:public/dean/pumpkin_pie"
+          "model": "vanillaflux:item/public/dean/pumpkin_pie"
         },
         "threshold": 1
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:public/dean/peacan_pie"
+          "model": "vanillaflux:item/public/dean/peacan_pie"
         },
         "threshold": 2
       }

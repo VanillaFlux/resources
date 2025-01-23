@@ -11,7 +11,7 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/rose_g"
+					"model": "vanillaflux:item/wolf/rose_g"
 				},
 				"threshold": 500
 			}

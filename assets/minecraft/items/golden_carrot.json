@@ -11,14 +11,14 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/pickle"
+					"model": "vanillaflux:item/quick/pickle"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:derrek/blue_golden_carrot"
+					"model": "vanillaflux:item/derrek/blue_golden_carrot"
 				},
 				"threshold": 1600
 			}

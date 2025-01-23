@@ -11,105 +11,105 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/cookies/macaron"
+					"model": "vanillaflux:item/public/cookies/macaron"
 				},
 				"threshold": 1
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/cookies/chocolate_chocolate_chip_cookie"
+					"model": "vanillaflux:item/public/cookies/chocolate_chocolate_chip_cookie"
 				},
 				"threshold": 2
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/cookies/chocolate_kiss_cookie"
+					"model": "vanillaflux:item/public/cookies/chocolate_kiss_cookie"
 				},
 				"threshold": 3
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/cookies/chocolate_with_sprinkles_cookie"
+					"model": "vanillaflux:item/public/cookies/chocolate_with_sprinkles_cookie"
 				},
 				"threshold": 4
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/cookies/cinnamon_roll"
+					"model": "vanillaflux:item/public/cookies/cinnamon_roll"
 				},
 				"threshold": 5
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/cookies/mm_cookie"
+					"model": "vanillaflux:item/public/cookies/mm_cookie"
 				},
 				"threshold": 6
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/cookies/oreo"
+					"model": "vanillaflux:item/public/cookies/oreo"
 				},
 				"threshold": 7
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/witch_hat_cookie"
+					"model": "vanillaflux:item/comm/october/witch_hat_cookie"
 				},
 				"threshold": 50
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/black_cat_cookie"
+					"model": "vanillaflux:item/comm/october/black_cat_cookie"
 				},
 				"threshold": 51
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/pumpkin_cookie"
+					"model": "vanillaflux:item/comm/october/pumpkin_cookie"
 				},
 				"threshold": 52
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/food/chocolate_bar_1"
+					"model": "vanillaflux:item/tef/food/chocolate_bar_1"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/food/chocolate_bar_2"
+					"model": "vanillaflux:item/tef/food/chocolate_bar_2"
 				},
 				"threshold": 101
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/food/candy_corn"
+					"model": "vanillaflux:item/tef/food/candy_corn"
 				},
 				"threshold": 102
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/food/lollipop"
+					"model": "vanillaflux:item/tef/food/lollipop"
 				},
 				"threshold": 103
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/food/cupcake"
+					"model": "vanillaflux:item/tef/food/cupcake"
 				},
 				"threshold": 104
 			}

@@ -11,56 +11,56 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/tools/sword1"
+					"model": "vanillaflux:item/tef/tools/sword1"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:noah/diamond_sword"
+					"model": "vanillaflux:item/noah/diamond_sword"
 				},
 				"threshold": 200
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/tools/diamond_sword"
+					"model": "vanillaflux:item/quick/tools/diamond_sword"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:jec/diamond_sword"
+					"model": "vanillaflux:item/jec/diamond_sword"
 				},
 				"threshold": 400
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/staff"
+					"model": "vanillaflux:item/wolf/staff"
 				},
 				"threshold": 501
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:jec/diamond_sword"
+					"model": "vanillaflux:item/jec/diamond_sword"
 				},
 				"threshold": 400
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/secret"
+					"model": "vanillaflux:item/quick/secret"
 				},
 				"threshold": 1001
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/tools/diamond_sword"
+					"model": "vanillaflux:item/comm/tools/diamond_sword"
 				},
 				"threshold": 1002
 			}

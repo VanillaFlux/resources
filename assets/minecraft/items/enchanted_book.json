@@ -11,84 +11,84 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book1"
+					"model": "vanillaflux:item/public/books/enchanted_book1"
 				},
 				"threshold": 1
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book2"
+					"model": "vanillaflux:item/public/books/enchanted_book2"
 				},
 				"threshold": 2
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book3"
+					"model": "vanillaflux:item/public/books/enchanted_book3"
 				},
 				"threshold": 3
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book4"
+					"model": "vanillaflux:item/public/books/enchanted_book4"
 				},
 				"threshold": 4
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book5"
+					"model": "vanillaflux:item/public/books/enchanted_book5"
 				},
 				"threshold": 5
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book6"
+					"model": "vanillaflux:item/public/books/enchanted_book6"
 				},
 				"threshold": 6
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book7"
+					"model": "vanillaflux:item/public/books/enchanted_book7"
 				},
 				"threshold": 7
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book8"
+					"model": "vanillaflux:item/public/books/enchanted_book8"
 				},
 				"threshold": 8
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book9"
+					"model": "vanillaflux:item/public/books/enchanted_book9"
 				},
 				"threshold": 9
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book10"
+					"model": "vanillaflux:item/public/books/enchanted_book10"
 				},
 				"threshold": 10
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book11"
+					"model": "vanillaflux:item/public/books/enchanted_book11"
 				},
 				"threshold": 11
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/enchanted_book12"
+					"model": "vanillaflux:item/public/books/enchanted_book12"
 				},
 				"threshold": 12
 			}

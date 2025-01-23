@@ -11,7 +11,7 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/handcuff"
+					"model": "vanillaflux:item/wolf/handcuff"
 				},
 				"threshold": 500
 			}

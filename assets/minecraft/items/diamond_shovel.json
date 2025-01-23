@@ -11,7 +11,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:tef/tools/shovel1"
+          "model": "vanillaflux:item/tef/tools/shovel1"
         },
         "threshold": 100
       }

@@ -11,28 +11,28 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/tools/shovel2"
+					"model": "vanillaflux:item/tef/tools/shovel2"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/tools/netherite_shovel"
+					"model": "vanillaflux:item/quick/tools/netherite_shovel"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/tools/netherite_shovel_3d"
+					"model": "vanillaflux:item/quick/tools/netherite_shovel_3d"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:derrek/derrek_shovel"
+					"model": "vanillaflux:item/derrek/derrek_shovel"
 				},
 				"threshold": 1600
 			}

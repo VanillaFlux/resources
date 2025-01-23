@@ -11,217 +11,217 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book1"
+					"model": "vanillaflux:item/public/books/book1"
 				},
 				"threshold": 1
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book2"
+					"model": "vanillaflux:item/public/books/book2"
 				},
 				"threshold": 2
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book3"
+					"model": "vanillaflux:item/public/books/book3"
 				},
 				"threshold": 3
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book4"
+					"model": "vanillaflux:item/public/books/book4"
 				},
 				"threshold": 4
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book5"
+					"model": "vanillaflux:item/public/books/book5"
 				},
 				"threshold": 5
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book6"
+					"model": "vanillaflux:item/public/books/book6"
 				},
 				"threshold": 6
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book7"
+					"model": "vanillaflux:item/public/books/book7"
 				},
 				"threshold": 7
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book8"
+					"model": "vanillaflux:item/public/books/book8"
 				},
 				"threshold": 8
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book9"
+					"model": "vanillaflux:item/public/books/book9"
 				},
 				"threshold": 9
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book10"
+					"model": "vanillaflux:item/public/books/book10"
 				},
 				"threshold": 10
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book11"
+					"model": "vanillaflux:item/public/books/book11"
 				},
 				"threshold": 11
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/book12"
+					"model": "vanillaflux:item/public/books/book12"
 				},
 				"threshold": 12
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/envelope"
+					"model": "vanillaflux:item/wolf/envelope"
 				},
 				"threshold": 500
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_black"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_black"
 				},
 				"threshold": 501
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_blue"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_blue"
 				},
 				"threshold": 502
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_brown"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_brown"
 				},
 				"threshold": 503
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_cyan"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_cyan"
 				},
 				"threshold": 504
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_green"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_green"
 				},
 				"threshold": 505
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_grey"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_grey"
 				},
 				"threshold": 506
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_lime"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_lime"
 				},
 				"threshold": 507
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_ltgrey"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_ltgrey"
 				},
 				"threshold": 508
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_ltblue"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_ltblue"
 				},
 				"threshold": 509
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_magenta"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_magenta"
 				},
 				"threshold": 510
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_orange"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_orange"
 				},
 				"threshold": 511
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_pink"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_pink"
 				},
 				"threshold": 512
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_purple"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_purple"
 				},
 				"threshold": 513
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_red"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_red"
 				},
 				"threshold": 514
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_white"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_white"
 				},
 				"threshold": 515
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/notebooks/comnb_signed_yellow"
+					"model": "vanillaflux:item/wolf/notebooks/comnb_signed_yellow"
 				},
 				"threshold": 516
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/armorstand_book"
+					"model": "vanillaflux:item/public/books/armorstand_book"
 				},
 				"threshold": 1000
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/books/armorstand_book1"
+					"model": "vanillaflux:item/public/books/armorstand_book1"
 				},
 				"threshold": 1001
 			}

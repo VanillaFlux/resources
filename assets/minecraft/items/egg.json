@@ -11,154 +11,154 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_vf"
+          "model": "vanillaflux:item/comm/eggs/egg_vf"
         },
         "threshold": 1190001
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_vfsymbol"
+          "model": "vanillaflux:item/comm/eggs/egg_vfsymbol"
         },
         "threshold": 1190002
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_obi"
+          "model": "vanillaflux:item/comm/eggs/egg_obi"
         },
         "threshold": 1190003
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_gold"
+          "model": "vanillaflux:item/comm/eggs/egg_gold"
         },
         "threshold": 1190004
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_diamond"
+          "model": "vanillaflux:item/comm/eggs/egg_diamond"
         },
         "threshold": 1190005
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_emerald"
+          "model": "vanillaflux:item/comm/eggs/egg_emerald"
         },
         "threshold": 1190006
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_bree"
+          "model": "vanillaflux:item/comm/eggs/egg_bree"
         },
         "threshold": 1190007
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_jec"
+          "model": "vanillaflux:item/comm/eggs/egg_jec"
         },
         "threshold": 1190008
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_lexi"
+          "model": "vanillaflux:item/comm/eggs/egg_lexi"
         },
         "threshold": 1190009
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_mea"
+          "model": "vanillaflux:item/comm/eggs/egg_mea"
         },
         "threshold": 1190010
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_nintii"
+          "model": "vanillaflux:item/comm/eggs/egg_nintii"
         },
         "threshold": 1190011
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_noah"
+          "model": "vanillaflux:item/comm/eggs/egg_noah"
         },
         "threshold": 1190012
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_quick"
+          "model": "vanillaflux:item/comm/eggs/egg_quick"
         },
         "threshold": 1190013
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_red"
+          "model": "vanillaflux:item/comm/eggs/egg_red"
         },
         "threshold": 1190014
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_tef"
+          "model": "vanillaflux:item/comm/eggs/egg_tef"
         },
         "threshold": 1190015
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg_wolf"
+          "model": "vanillaflux:item/comm/eggs/egg_wolf"
         },
         "threshold": 1190016
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg01"
+          "model": "vanillaflux:item/comm/eggs/egg01"
         },
         "threshold": 1190017
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg02"
+          "model": "vanillaflux:item/comm/eggs/egg02"
         },
         "threshold": 1190018
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg03"
+          "model": "vanillaflux:item/comm/eggs/egg03"
         },
         "threshold": 1190019
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg04"
+          "model": "vanillaflux:item/comm/eggs/egg04"
         },
         "threshold": 1190020
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg05"
+          "model": "vanillaflux:item/comm/eggs/egg05"
         },
         "threshold": 1190021
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:comm/eggs/egg06"
+          "model": "vanillaflux:item/comm/eggs/egg06"
         },
         "threshold": 1190022
       }

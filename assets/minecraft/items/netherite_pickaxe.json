@@ -11,35 +11,35 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/tools/pick1"
+					"model": "vanillaflux:item/tef/tools/pick1"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/tools/pick2"
+					"model": "vanillaflux:item/tef/tools/pick2"
 				},
 				"threshold": 101
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/tools/netherite_pickaxe"
+					"model": "vanillaflux:item/quick/tools/netherite_pickaxe"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/tools/netherite_pickaxe2"
+					"model": "vanillaflux:item/quick/tools/netherite_pickaxe2"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:derrek/derrek_pickaxe"
+					"model": "vanillaflux:item/derrek/derrek_pickaxe"
 				},
 				"threshold": 1600
 			}

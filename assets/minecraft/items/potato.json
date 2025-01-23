@@ -11,7 +11,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:derrek/blue_potato"
+          "model": "vanillaflux:item/derrek/blue_potato"
         },
         "threshold": 1600
       }

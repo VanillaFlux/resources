@@ -11,14 +11,14 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/tools/axe1"
+					"model": "vanillaflux:item/tef/tools/axe1"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/tools/axe2"
+					"model": "vanillaflux:item/tef/tools/axe2"
 				},
 				"threshold": 101
 			}

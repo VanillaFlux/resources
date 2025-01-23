@@ -11,21 +11,21 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:public/flats/map/redstone_lamp_on_flat"
+          "model": "vanillaflux:item/public/flats/map/redstone_lamp_on_flat"
         },
         "threshold": 1
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:public/flats/map/cherry_leaves_on_flat"
+          "model": "vanillaflux:item/public/flats/map/cherry_leaves_on_flat"
         },
         "threshold": 2
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:public/flats/map/carved_pumpkin_flat"
+          "model": "vanillaflux:item/public/flats/map/carved_pumpkin_flat"
         },
         "threshold": 3
       }

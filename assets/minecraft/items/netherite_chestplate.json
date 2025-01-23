@@ -71,161 +71,161 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/shroom_shirt"
+					"model": "vanillaflux:item/tef/shroom_shirt"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_quartz_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_quartz_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_iron_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_iron_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_netherite_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_netherite_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_redstone_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_redstone_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_copper_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_copper_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_gold_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_gold_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_emerald_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_emerald_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_diamond_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_diamond_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_lapis_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_lapis_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite_amethyst_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite_amethyst_trim"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_quartz_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_quartz_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_iron_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_iron_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_netherite_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_netherite_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_redstone_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_redstone_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_copper_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_copper_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_gold_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_gold_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_emerald_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_emerald_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_diamond_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_diamond_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_lapis_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_lapis_trim"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/chestplates/pirate_vest_netherite2_amethyst_trim"
+					"model": "vanillaflux:item/quick/armor/chestplates/pirate_vest_netherite2_amethyst_trim"
 				},
 				"threshold": 301
 			}

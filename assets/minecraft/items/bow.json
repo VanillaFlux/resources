@@ -29,56 +29,56 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:tef/tools/bow1"
+          "model": "vanillaflux:item/tef/tools/bow1"
         },
         "threshold": 100
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:tef/tools/bow2"
+          "model": "vanillaflux:item/tef/tools/bow2"
         },
         "threshold": 100
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:tef/tools/bow3"
+          "model": "vanillaflux:item/tef/tools/bow3"
         },
         "threshold": 100
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:tef/tools/bow4"
+          "model": "vanillaflux:item/tef/tools/bow4"
         },
         "threshold": 100
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:quick/tools/bow"
+          "model": "vanillaflux:item/quick/tools/bow"
         },
         "threshold": 300
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:quick/tools/bow_pulling_0"
+          "model": "vanillaflux:item/quick/tools/bow_pulling_0"
         },
         "threshold": 300
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:quick/tools/bow_pulling_1"
+          "model": "vanillaflux:item/quick/tools/bow_pulling_1"
         },
         "threshold": 300
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:quick/tools/bow_pulling_2"
+          "model": "vanillaflux:item/quick/tools/bow_pulling_2"
         },
         "threshold": 300
       }

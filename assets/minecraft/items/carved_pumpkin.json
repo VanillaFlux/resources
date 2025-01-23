@@ -11,546 +11,546 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_default_1"
+					"model": "vanillaflux:item/tef/plushies/plushie_default_1"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_default_2"
+					"model": "vanillaflux:item/tef/plushies/plushie_default_2"
 				},
 				"threshold": 101
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_default_3"
+					"model": "vanillaflux:item/tef/plushies/plushie_default_3"
 				},
 				"threshold": 102
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_wolf"
+					"model": "vanillaflux:item/tef/plushies/plushie_wolf"
 				},
 				"threshold": 103
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_summer"
+					"model": "vanillaflux:item/tef/plushies/plushie_summer"
 				},
 				"threshold": 104
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_warrior"
+					"model": "vanillaflux:item/tef/plushies/plushie_warrior"
 				},
 				"threshold": 105
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_pirate"
+					"model": "vanillaflux:item/tef/plushies/plushie_pirate"
 				},
 				"threshold": 106
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_franken"
+					"model": "vanillaflux:item/tef/plushies/plushie_franken"
 				},
 				"threshold": 107
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_robe"
+					"model": "vanillaflux:item/tef/plushies/plushie_robe"
 				},
 				"threshold": 108
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_lexi"
+					"model": "vanillaflux:item/tef/plushies/plushie_lexi"
 				},
 				"threshold": 109
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_default_4"
+					"model": "vanillaflux:item/tef/plushies/plushie_default_4"
 				},
 				"threshold": 110
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_beach"
+					"model": "vanillaflux:item/tef/plushies/plushie_beach"
 				},
 				"threshold": 111
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_bunny"
+					"model": "vanillaflux:item/tef/plushies/plushie_bunny"
 				},
 				"threshold": 112
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_partial"
+					"model": "vanillaflux:item/tef/plushies/plushie_partial"
 				},
 				"threshold": 113
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_bday_wolf"
+					"model": "vanillaflux:item/tef/plushies/plushie_bday_wolf"
 				},
 				"threshold": 114
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/plushies/plushie_moss"
+					"model": "vanillaflux:item/tef/plushies/plushie_moss"
 				},
 				"threshold": 115
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/eye_patch"
+					"model": "vanillaflux:item/quick/armor/hats/eye_patch"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat"
 				},
 				"threshold": 301
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_red"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_red"
 				},
 				"threshold": 302
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_orange"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_orange"
 				},
 				"threshold": 303
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_yellow"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_yellow"
 				},
 				"threshold": 304
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_green"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_green"
 				},
 				"threshold": 305
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_lime"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_lime"
 				},
 				"threshold": 306
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_cyan"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_cyan"
 				},
 				"threshold": 307
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_blue"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_blue"
 				},
 				"threshold": 308
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_dark_blue"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_dark_blue"
 				},
 				"threshold": 309
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_purple"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_purple"
 				},
 				"threshold": 310
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_magenta"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_magenta"
 				},
 				"threshold": 311
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_pink"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_pink"
 				},
 				"threshold": 312
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/pirate_hat_brown"
+					"model": "vanillaflux:item/quick/armor/hats/pirate_hat_brown"
 				},
 				"threshold": 313
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/ag"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/ag"
 				},
 				"threshold": 314
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/an"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/an"
 				},
 				"threshold": 315
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/ar"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/ar"
 				},
 				"threshold": 316
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/as"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/as"
 				},
 				"threshold": 317
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/b"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/b"
 				},
 				"threshold": 318
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/gf"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/gf"
 				},
 				"threshold": 319
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/gq"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/gq"
 				},
 				"threshold": 320
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/i"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/i"
 				},
 				"threshold": 321
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/l"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/l"
 				},
 				"threshold": 322
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/nb"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/nb"
 				},
 				"threshold": 323
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/neu"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/neu"
 				},
 				"threshold": 324
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/p"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/p"
 				},
 				"threshold": 325
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/pam"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/pam"
 				},
 				"threshold": 326
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/pride"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/pride"
 				},
 				"threshold": 327
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/ps"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/ps"
 				},
 				"threshold": 328
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/t"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/t"
 				},
 				"threshold": 329
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/hats/lg-bee-t/bg"
+					"model": "vanillaflux:item/quick/armor/hats/lg-bee-t/bg"
 				},
 				"threshold": 330
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/bowtie"
+					"model": "vanillaflux:item/wolf/bowtie"
 				},
 				"threshold": 500
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/haunted_house/toil_bubble"
+					"model": "vanillaflux:item/comm/october/haunted_house/toil_bubble"
 				},
 				"threshold": 501
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/haunted_house/composter_skull"
+					"model": "vanillaflux:item/comm/october/haunted_house/composter_skull"
 				},
 				"threshold": 502
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/haunted_house/witch_dress"
+					"model": "vanillaflux:item/comm/october/haunted_house/witch_dress"
 				},
 				"threshold": 503
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/haunted_house/witch_hat_hh"
+					"model": "vanillaflux:item/comm/october/haunted_house/witch_hat_hh"
 				},
 				"threshold": 504
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/haunted_house/ouija_board"
+					"model": "vanillaflux:item/comm/october/haunted_house/ouija_board"
 				},
 				"threshold": 505
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/flower_crown"
+					"model": "vanillaflux:item/comm/october/bree/flower_crown"
 				},
 				"threshold": 700
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/glasses_hi"
+					"model": "vanillaflux:item/comm/october/bree/glasses_hi"
 				},
 				"threshold": 701
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/glasses_low"
+					"model": "vanillaflux:item/comm/october/bree/glasses_low"
 				},
 				"threshold": 702
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/mushrooms"
+					"model": "vanillaflux:item/comm/october/bree/mushrooms"
 				},
 				"threshold": 703
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/vampire"
+					"model": "vanillaflux:item/comm/october/bree/vampire"
 				},
 				"threshold": 704
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/warden_hat"
+					"model": "vanillaflux:item/comm/october/bree/warden_hat"
 				},
 				"threshold": 705
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_purple"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_purple"
 				},
 				"threshold": 706
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_red"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_red"
 				},
 				"threshold": 707
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_orange"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_orange"
 				},
 				"threshold": 708
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_yellow"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_yellow"
 				},
 				"threshold": 709
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_green"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_green"
 				},
 				"threshold": 710
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_lime"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_lime"
 				},
 				"threshold": 711
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_cyan"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_cyan"
 				},
 				"threshold": 712
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_ltblue"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_ltblue"
 				},
 				"threshold": 713
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_blue"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_blue"
 				},
 				"threshold": 714
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_pink"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_pink"
 				},
 				"threshold": 715
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_magenta"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_magenta"
 				},
 				"threshold": 716
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_ltgray"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_ltgray"
 				},
 				"threshold": 717
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_gray"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_gray"
 				},
 				"threshold": 718
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_black"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_black"
 				},
 				"threshold": 719
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_white"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_white"
 				},
 				"threshold": 720
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:comm/october/bree/witch_hat_brown"
+					"model": "vanillaflux:item/comm/october/bree/witch_hat_brown"
 				},
 				"threshold": 721
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:trophy/trophy_base"
+					"model": "vanillaflux:item/trophy/trophy_base"
 				},
 				"threshold": 1000
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:trophy/trophy_fish"
+					"model": "vanillaflux:item/trophy/trophy_fish"
 				},
 				"threshold": 1001
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:derrek/mushroom_hat"
+					"model": "vanillaflux:item/derrek/mushroom_hat"
 				},
 				"threshold": 1600
 			}

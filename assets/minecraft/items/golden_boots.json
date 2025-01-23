@@ -71,7 +71,7 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/pirate_boots_gold"
+					"model": "vanillaflux:item/quick/armor/pirate_boots_gold"
 				},
 				"threshold": 300
 			}

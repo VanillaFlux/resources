@@ -11,28 +11,28 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:nintii/night_vision"
+          "model": "vanillaflux:item/nintii/night_vision"
         },
         "threshold": 600
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:nintii/invisibility"
+          "model": "vanillaflux:item/nintii/invisibility"
         },
         "threshold": 601
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:nintii/leaping"
+          "model": "vanillaflux:item/nintii/leaping"
         },
         "threshold": 602
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "vanillaflux:nintii/swiftness"
+          "model": "vanillaflux:item/nintii/swiftness"
         },
         "threshold": 603
       }

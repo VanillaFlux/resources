@@ -71,7 +71,7 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/pirate_pants_iron"
+					"model": "vanillaflux:item/quick/armor/pirate_pants_iron"
 				},
 				"threshold": 300
 			}

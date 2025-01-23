@@ -71,21 +71,21 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/shroom_cap"
+					"model": "vanillaflux:item/tef/shroom_cap"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/pirate_hat_netherite"
+					"model": "vanillaflux:item/quick/armor/pirate_hat_netherite"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/pirate_hat_netherite2"
+					"model": "vanillaflux:item/quick/armor/pirate_hat_netherite2"
 				},
 				"threshold": 301
 			}

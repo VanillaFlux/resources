@@ -11,91 +11,91 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/totem_of_undying-cow"
+					"model": "vanillaflux:item/public/totem_of_undying-cow"
 				},
 				"threshold": 2
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/totem_of_undying-enderman"
+					"model": "vanillaflux:item/public/totem_of_undying-enderman"
 				},
 				"threshold": 3
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/totem_of_undying-evoker"
+					"model": "vanillaflux:item/public/totem_of_undying-evoker"
 				},
 				"threshold": 4
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/totem_of_undying-pillager"
+					"model": "vanillaflux:item/public/totem_of_undying-pillager"
 				},
 				"threshold": 5
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/totem_of_undying-white"
+					"model": "vanillaflux:item/public/totem_of_undying-white"
 				},
 				"threshold": 6
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:public/totem_of_undying-pig"
+					"model": "vanillaflux:item/public/totem_of_undying-pig"
 				},
 				"threshold": 7
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/totem"
+					"model": "vanillaflux:item/tef/totem"
 				},
 				"threshold": 100
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/totem2"
+					"model": "vanillaflux:item/tef/totem2"
 				},
 				"threshold": 101
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:tef/totem2void"
+					"model": "vanillaflux:item/tef/totem2void"
 				},
 				"threshold": 102
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:noah/totem"
+					"model": "vanillaflux:item/noah/totem"
 				},
 				"threshold": 200
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/totem"
+					"model": "vanillaflux:item/quick/totem"
 				},
 				"threshold": 300
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:nintii/arken_stone"
+					"model": "vanillaflux:item/nintii/arken_stone"
 				},
 				"threshold": 400
 			},
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:wolf/coffee_totem"
+					"model": "vanillaflux:item/wolf/coffee_totem"
 				},
 				"threshold": 500
 			}

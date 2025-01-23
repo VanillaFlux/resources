@@ -71,7 +71,7 @@
 			{
 				"model": {
 					"type": "minecraft:model",
-					"model": "vanillaflux:quick/armor/pirate_vest_iron"
+					"model": "vanillaflux:item/quick/armor/pirate_vest_iron"
 				},
 				"threshold": 300
 			}
