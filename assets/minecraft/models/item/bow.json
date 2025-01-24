@@ -23,15 +23,5 @@
             "rotation": [ 0, 90, -25 ],
             "translation": [ 1.13, 3.2, 1.13],
             "scale": [ 0.68, 0.68, 0.68 ]
-        },
-    "overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "vanillaflux:tef/tools/bow1"},
-		{"predicate": {"custom_model_data":100, "pulling": 1}, "model": "vanillaflux:tef/tools/bow2"},
-        {"predicate": {"custom_model_data":100, "pulling": 1, "pull": 0.65}, "model": "vanillaflux:tef/tools/bow3"},
-        {"predicate": {"custom_model_data":100, "pulling": 1, "pull": 0.9}, "model": "vanillaflux:tef/tools/bow4"},
-		{"predicate": {"custom_model_data":300}, "model": "vanillaflux:quick/tools/bow"},
-		{"predicate": {"custom_model_data":300, "pulling": 1}, "model": "vanillaflux:quick/tools/bow_pulling_0"},
-        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.65}, "model": "vanillaflux:quick/tools/bow_pulling_1"},
-        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.9}, "model": "vanillaflux:quick/tools/bow_pulling_2"}
-    ]
+        }
 }
