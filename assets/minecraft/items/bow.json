@@ -4,77 +4,110 @@
     "property": "minecraft:custom_model_data",
     "index": 0,
     "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/bow"
+      "type": "minecraft:condition",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow"
+      },
+      "on_true": {
+        "type": "minecraft:range_dispatch",
+        "entries": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/bow_pulling_1"
+            },
+            "threshold": 0.65
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/bow_pulling_2"
+            },
+            "threshold": 0.9
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/bow_pulling_0"
+        },
+        "property": "minecraft:use_duration",
+        "scale": 0.05
+      },
+      "property": "minecraft:using_item"
     },
     "entries": [
       {
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/bow_pulling_0"
-        }
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/bow_pulling_0"
-        }
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/bow_pulling_0"
-        }
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "vanillaflux:item/tef/tools/bow1"
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "vanillaflux:item/tef/tools/bow"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "vanillaflux:item/tef/tools/bow3"
+                },
+                "threshold": 0.65
+              },
+              {
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "vanillaflux:item/tef/tools/bow4"
+                },
+                "threshold": 0.9
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "vanillaflux:item/tef/tools/bow2"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
         },
         "threshold": 100
       },
       {
         "model": {
-          "type": "minecraft:model",
-          "model": "vanillaflux:item/tef/tools/bow2"
-        },
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "vanillaflux:item/tef/tools/bow3"
-        },
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "vanillaflux:item/tef/tools/bow4"
-        },
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "vanillaflux:item/quick/tools/bow"
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "vanillaflux:item/quick/tools/bow"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "vanillaflux:item/quick/tools/bow_pulling_1"
+                },
+                "threshold": 0.65
+              },
+              {
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "vanillaflux:item/quick/tools/bow_pulling_2"
+                },
+                "threshold": 0.9
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "vanillaflux:item/quick/tools/bow_pulling_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
         },
         "threshold": 300
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "vanillaflux:item/quick/tools/bow_pulling_0"
-        },
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "vanillaflux:item/quick/tools/bow_pulling_1"
-        },
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
-          "model": "vanillaflux:item/quick/tools/bow_pulling_2"
-        },
       }
     ]
   }
