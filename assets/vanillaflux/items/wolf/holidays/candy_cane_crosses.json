@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "vanillaflux:item/wolf/holidays/candy_cane_crosses"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/wolf/holidays/candy_cane_crosses"
 	}
 }

@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "vanillaflux:item/tef/shroom_shirt"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/tef/shroom_shirt"
 	}
 }

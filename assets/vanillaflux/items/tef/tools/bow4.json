@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/bow",
-	"textures": {
-		"layer0": "vanillaflux:item/tef/tools/bow4"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/tef/tools/bow4"
 	}
 }

@@ -1,7 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "vanillaflux:item/tef/tools/axe1"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/tef/tools/axe1"
 	}
 }

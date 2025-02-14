@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "vanillaflux:item/wolf/notebooks/comnb_signed_black"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/wolf/notebooks/comnb_signed_black"
 	}
 }
