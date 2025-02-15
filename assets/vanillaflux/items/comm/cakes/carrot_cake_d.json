@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "vanillaflux:item/comm/cakes/derrek/carrot_cake"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/comm/cakes/derrek/carrot_cake"
 	}

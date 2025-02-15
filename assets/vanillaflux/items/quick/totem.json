@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "vanillaflux:item/quick/totem"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/quick/totem"
 	}
 }

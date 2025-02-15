@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "vanillaflux:item/quick/tools/netherite_sword"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/quick/tools/netherite_sword"
 	}
 }

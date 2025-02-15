@@ -1,8 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "vanillaflux:item/public/bundle/bundle_1",
-		"layer1": "vanillaflux:item/public/bundle/diamond",
-		"layer2": "vanillaflux:item/public/bundle/bundle_0"
-    }
-}

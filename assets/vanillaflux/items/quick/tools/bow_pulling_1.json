@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/bow",
-	"textures": {
-		"layer0": "vanillaflux:item/quick/tools/bow_pulling_1"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/quick/tools/bow_pulling_1"
 	}
 }

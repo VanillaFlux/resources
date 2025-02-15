@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "vanillaflux:item/quick/tools/netherite_hoe"
+	"model": {
+		"type": "minecraft:model",
+		"model": "vanillaflux:item/quick/tools/netherite_hoe"
 	}
 }
