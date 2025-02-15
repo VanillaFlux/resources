@@ -49,6 +49,13 @@
           "model": "vanillaflux:item/comm/cakes/nintii_cake"
         },
         "threshold": 1006
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "vanillaflux:item/comm/cakes/carrot_cake_d"
+        },
+        "threshold": 1007
       }
     ]
   }
